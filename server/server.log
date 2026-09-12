@@ -1,0 +1,12 @@
+
+> velozity-server@1.0.0 dev
+> tsx watch src/server.ts
+
+Server running on port 3000 in development mode
+npm error Lifecycle script `dev` failed with error:
+npm error code 143
+npm error path /Users/rohit/Desktop/velozity-dashboard/server
+npm error workspace velozity-server@1.0.0
+npm error location /Users/rohit/Desktop/velozity-dashboard/server
+npm error command failed
+npm error command sh -c tsx watch src/server.ts
